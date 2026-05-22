@@ -1,5 +1,3 @@
-<!-- ══════════════════════════ HEADER ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:000000,45:000C1E,100:001845&text=A%20H%20KHAN&fontSize=100&fontColor=00C8FF&fontAlignY=52&fontFamily=Chakra+Petch&desc=AI%20%E2%80%A2%20%20ROBOTICS%20%E2%80%A2%20%20FULL-STACK%20%E2%80%A2%20%20BANGALORE%2C%20INDIA&descSize=15&descAlignY=71&descColor=FFFFFF&animation=fadeIn&stroke=00C8FF&strokeWidth=2" width="100%"/>
 
 <!-- Glowing separator -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,30:00C8FF,70:00C8FF,100:000000" width="100%"/>
