@@ -7,9 +7,6 @@
 <br/>
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahkhan-nafrok&color=0084FF&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/ahkhan-nafrok?color=0084FF&style=for-the-badge&label=FOLLOWERS&logo=github)&nbsp;&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/ahkhan-nafrok?color=0084FF&style=for-the-badge&label=STARS&logo=github)
 
 </div>
 
