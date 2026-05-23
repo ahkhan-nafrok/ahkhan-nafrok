@@ -1,18 +1,14 @@
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=13&pause=3500&color=666666&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%26+AI+Researcher;Founder+%40+NAFROK+%E2%80%94+30%2B+Production+Systems;Founder+%40+AIxRobo+%E2%80%94+Autonomous+Drones+%26+Robotics;Bangalore%2C+India" alt="Typing SVG"/>
-
-<br/><br/>
-
-# Ahmed Hussain Khan
-
-<p><sub>Full-Stack &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; UAV &nbsp;·&nbsp; Bangalore, India</sub></p>
+<img src="./assets/banner.svg" width="100%" alt="Ahmed Hussain Khan"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/ahkhan.online-111?style=flat-square&logoColor=fff&logo=vercel)](https://ahkhan.online)&ensp;[![NAFROK](https://img.shields.io/badge/nafrok.com-111?style=flat-square)](https://www.nafrok.com)&ensp;[![AIxRobo](https://img.shields.io/badge/aixrobo.com-111?style=flat-square)](https://www.aixrobo.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedhussainkhan)&ensp;[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail)](mailto:ahkhan.nafrok@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ahkhan-nafrok&style=flat-square&color=333333&label=PROFILE+VIEWS)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/ahkhan.online-111?style=flat-square&logo=vercel&logoColor=fff)](https://ahkhan.online)&ensp;[![NAFROK](https://img.shields.io/badge/nafrok.com-111?style=flat-square)](https://www.nafrok.com)&ensp;[![AIxRobo](https://img.shields.io/badge/aixrobo.com-111?style=flat-square)](https://www.aixrobo.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedhussainkhan)&ensp;[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail)](mailto:ahkhan.nafrok@gmail.com)
 
 </div>
 
@@ -43,7 +39,7 @@ Started at 16 with HTML and CSS — no roadmap, just curiosity. Three years late
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,react,html,css,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,androidstudio&theme=dark" />
 
 <br/><br/>
 
