@@ -1,0 +1,28 @@
+<svg width="100%" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="36" height="36" patternUnits="userSpaceOnUse">
+      <circle cx="18" cy="18" r="0.9" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="#080808"/>
+  <rect width="1200" height="260" fill="url(#dots)"/>
+
+  <rect x="0" y="0" width="1200" height="0.5" fill="#ffffff" opacity="0.12"/>
+  <rect x="0" y="259.5" width="1200" height="0.5" fill="#ffffff" opacity="0.12"/>
+
+  <rect x="72" y="72" width="1.5" height="116" fill="#ffffff" opacity="0.25"/>
+
+  <text x="100" y="145" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="-1.5" opacity="0.96">Ahmed Hussain Khan</text>
+
+  <line x1="100" y1="163" x2="520" y2="163" stroke="#ffffff" stroke-width="0.5" opacity="0.1"/>
+
+  <text x="102" y="188" font-family="'Courier New', Courier, monospace" font-size="12" fill="#505050" letter-spacing="3.5">FULL-STACK  ·  AI/ML  ·  ROBOTICS  ·  BANGALORE, INDIA</text>
+
+  <text x="1128" y="145" font-family="'Courier New', Courier, monospace" font-size="11" fill="#282828" letter-spacing="1" text-anchor="middle">12.9716° N</text>
+  <text x="1128" y="162" font-family="'Courier New', Courier, monospace" font-size="11" fill="#282828" letter-spacing="1" text-anchor="middle">77.5946° E</text>
+
+  <rect x="0" y="0" width="1200" height="50" fill="white" opacity="0.015">
+    <animateTransform attributeName="transform" type="translate" values="0,-50; 0,310" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
