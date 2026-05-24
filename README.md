@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/ahkhan.online-111?style=flat-square&logo=vercel&logoColor=fff)](https://ahkhan.online)&ensp;[![NAFROK](https://img.shields.io/badge/nafrok.com-111?style=flat-square)](https://www.nafrok.com)&ensp;[![AIxRobo](https://img.shields.io/badge/aixrobo.com-111?style=flat-square)](https://www.aixrobo.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin)](https://linkedin.com/in/ahmedhussainkhan)&ensp;[![Email](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail)](mailto:ahkhan.nafrok@gmail.com)
+<a href="https://ahkhan.online"><img src="./assets/buttons/btn-portfolio.svg" height="48"/></a>&nbsp;<a href="https://www.nafrok.com"><img src="./assets/buttons/btn-nafrok.svg" height="48"/></a>&nbsp;<a href="https://www.aixrobo.com"><img src="./assets/buttons/btn-aixrobo.svg" height="48"/></a>&nbsp;<a href="https://linkedin.com/in/ahmedhussainkhan"><img src="./assets/buttons/btn-linkedin.svg" height="48"/></a>&nbsp;<a href="mailto:ahkhan.nafrok@gmail.com"><img src="./assets/buttons/btn-email.svg" height="48"/></a>&nbsp;<a href="https://twitter.com/AHMEDAlp15"><img src="./assets/buttons/btn-twitter.svg" height="48"/></a>
 
 </div>
 
@@ -107,7 +107,7 @@ Call center infrastructure — 20+ machines built and networked, full VoIP stack
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 
 <br/><br/>
 
