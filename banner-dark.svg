@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#0D0D0B"/>
+
+  <!-- corner tick marks -->
+  <g stroke="#F3F2ED" stroke-width="1.5">
+    <path d="M24 24 H64 M24 24 V64" fill="none"/>
+    <path d="M1176 24 H1136 M1176 24 V64" fill="none"/>
+    <path d="M24 256 H64 M24 256 V216" fill="none"/>
+    <path d="M1176 256 H1136 M1176 256 V216" fill="none"/>
+  </g>
+
+  <!-- name -->
+  <text x="60" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="1" fill="#F3F2ED">AHMED HUSSAIN KHAN</text>
+
+  <!-- rule -->
+  <line x1="60" y1="150" x2="1140" y2="150" stroke="#2A2A26" stroke-width="1"/>
+
+  <!-- meta rows -->
+  <text x="60" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">BASE</text>
+  <text x="150" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">12.97°N 77.59°E — BANGALORE, IN</text>
+
+  <text x="60" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">BUILT</text>
+  <text x="150" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">NAFROK (WEB SYSTEMS) · AIXROBO (AUTONOMOUS MACHINES)</text>
+
+  <text x="990" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">EST.</text>
+  <text x="1035" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">2023</text>
+
+  <text x="990" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">REV.</text>
+  <text x="1035" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">III</text>
+</svg>
