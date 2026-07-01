@@ -25,6 +25,7 @@
   <text x="990" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">EST.</text>
   <text x="1035" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">2023</text>
 
+
   <text x="990" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">REV.</text>
   <text x="1035" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">III</text>
 </svg>
