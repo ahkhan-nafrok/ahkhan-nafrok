@@ -26,47 +26,72 @@ Started at 16 with HTML and CSS — no roadmap, just curiosity. Three years late
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="140" valign="top"><sub><b>LANGUAGES</b></sub></td>
+<td>
 
-<sub>LANGUAGES</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>FRONTEND & MOBILE</b></sub></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,kotlin&theme=dark" />
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>BACKEND & DATABASES</b></sub></td>
+<td>
 
-<sub>FRONTEND & MOBILE</sub>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<br/>
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>AI / ML & ROBOTICS</b></sub></td>
+<td>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,androidstudio&theme=dark" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>DEVOPS & TOOLS</b></sub></td>
+<td>
 
-<sub>BACKEND & DATABASES</sub>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis&theme=dark" />
-
-<br/><br/>
-
-<sub>AI / ML & ROBOTICS</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=dark" />
-
-<br/><br/>
-
-<sub>DEVOPS & TOOLS</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,figma,postman&theme=dark" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
