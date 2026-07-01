@@ -1,128 +1,30 @@
-<div align="center">
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="280" fill="#0D0D0B"/>
 
-<img src="./assets/banner.svg" width="100%" alt="Ahmed Hussain Khan"/>
+  <!-- corner tick marks -->
+  <g stroke="#F3F2ED" stroke-width="1.5">
+    <path d="M24 24 H64 M24 24 V64" fill="none"/>
+    <path d="M1176 24 H1136 M1176 24 V64" fill="none"/>
+    <path d="M24 256 H64 M24 256 V216" fill="none"/>
+    <path d="M1176 256 H1136 M1176 256 V216" fill="none"/>
+  </g>
 
-<br/>
+  <!-- name -->
+  <text x="60" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="52" letter-spacing="1" fill="#F3F2ED">AHMED HUSSAIN KHAN</text>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahkhan-nafrok&style=flat-square&color=333333&label=PROFILE+VIEWS)
+  <!-- rule -->
+  <line x1="60" y1="150" x2="1140" y2="150" stroke="#2A2A26" stroke-width="1"/>
 
-<br/>
+  <!-- meta rows -->
+  <text x="60" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">BASE</text>
+  <text x="150" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">12.97°N 77.59°E — BANGALORE, IN</text>
 
-<a href="https://ahkhan.online"><img src="./assets/buttons/btn-portfolio.svg" height="48"/></a>&nbsp;<a href="https://www.nafrok.com"><img src="./assets/buttons/btn-nafrok.svg" height="48"/></a>&nbsp;<a href="https://www.aixrobo.com"><img src="./assets/buttons/btn-aixrobo.svg" height="48"/></a>&nbsp;<a href="https://linkedin.com/in/ahmedhussainkhan"><img src="./assets/buttons/btn-linkedin.svg" height="48"/></a>&nbsp;<a href="mailto:ahkhan.nafrok@gmail.com"><img src="./assets/buttons/btn-email.svg" height="48"/></a>&nbsp;<a href="https://twitter.com/AHMEDAlp15"><img src="./assets/buttons/btn-twitter.svg" height="48"/></a>
+  <text x="60" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">BUILT</text>
+  <text x="150" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">NAFROK (WEB SYSTEMS) · AIXROBO (AUTONOMOUS MACHINES)</text>
 
-</div>
+  <text x="990" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">EST.</text>
+  <text x="1035" y="185" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">2023</text>
 
-<br/>
-
----
-
-Started at 16 with HTML and CSS — no roadmap, just curiosity. Three years later: two companies founded, 30+ production systems shipped, and autonomous machines navigating hostile environments without GPS.
-
-**NAFROK** — Web design agency. Full-stack production websites. Fixed pricing. Ruthless timelines. Measurable results.  
-**AIxRobo** — Research lab. Autonomous drones, humanoid robotics, and LLM-powered physical intelligence.
-
----
-
-<br/>
-
-<div align="center">
-
-<sub>LANGUAGES</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,kotlin&theme=dark" />
-
-<br/><br/>
-
-<sub>FRONTEND & MOBILE</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,androidstudio&theme=dark" />
-
-<br/><br/>
-
-<sub>BACKEND & DATABASES</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis&theme=dark" />
-
-<br/><br/>
-
-<sub>AI / ML & ROBOTICS</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=dark" />
-
-<br/><br/>
-
-<sub>DEVOPS & TOOLS</sub>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,vercel,figma,postman&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center"><sub>SELECTED WORK</sub></div>
-
-<br/>
-
-**[NAFROK](https://nafrok.com)** &nbsp; `2024`  
-Web design agency — 30+ production systems shipped. ₹15–45K fixed pricing. 1–3 week delivery. 125% avg. conversion lift.
-
-**[SlateBooks](https://slatebooks.in)** &nbsp; `2025`  
-E-commerce platform built from zero — brand identity, admin dashboard, payment processing, inventory management. 30 → 1,200 monthly visitors.
-
-**[AIxRescue](https://aixrescue.io)** &nbsp; `2025`  
-Real-time disaster intelligence — satellite imagery, live weather telemetry, and AI anomaly detection in a unified command dashboard.
-
-**[AIxDrone](https://aixdrone.io)** &nbsp; `2025`  
-Autonomous flight system — LiDAR + GPS + IMU sensor fusion, onboard PyTorch inference, obstacle avoidance, swarm coordination.
-
-**[AIxRobo](https://aixrobo.com)** &nbsp; `2025`  
-Independent research lab — humanoid robotics, LLM + physical intelligence, multi-modal perception, autonomous systems.
-
-**[Retail Joints](https://retailjoints.io)** &nbsp; `2023`  
-Call center infrastructure — 20+ machines built and networked, full VoIP stack, security hardened, delivered under budget.
-
-<br/>
-
----
-
-<br/>
-
-<div align="center"><sub>GITHUB</sub></div>
-
-<br/>
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahkhan-nafrok&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=555555&text_color=888888&include_all_commits=true&count_private=true&hide_title=true" width="46%"/>
-&ensp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkhan-nafrok&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=6&hide_title=true" width="38%"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<br/>
-<sub>ahkhan.nafrok@gmail.com &nbsp;·&nbsp; Bangalore, India</sub>
-<br/><br/>
-</div>
+  <text x="990" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" letter-spacing="0.5" fill="#8C8C82">REV.</text>
+  <text x="1035" y="212" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="14" fill="#F3F2ED">III</text>
+</svg>
