@@ -1,14 +1,21 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Ahmed Hussain Khan"/>
+<a href="https://github.com/ahkhan-nafrok">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ah+Khan+%E2%80%94+aka+Ra9;Full-Stack+%C2%B7+AI%2FML+%C2%B7+Robotics;Let's+build+next-gen+tech." alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahkhan-nafrok&style=flat-square&color=333333&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ahkhan-nafrok&style=for-the-badge&color=111111&label=PROFILE+VIEWS)
 
-<br/>
+<br/><br/>
 
-<a href="https://ahkhan.online"><img src="./assets/buttons/btn-portfolio.svg" height="48"/></a>&nbsp;<a href="https://www.nafrok.com"><img src="./assets/buttons/btn-nafrok.svg" height="48"/></a>&nbsp;<a href="https://www.aixrobo.com"><img src="./assets/buttons/btn-aixrobo.svg" height="48"/></a>&nbsp;<a href="https://linkedin.com/in/ahmedhussainkhan"><img src="./assets/buttons/btn-linkedin.svg" height="48"/></a>&nbsp;<a href="mailto:ahkhan.nafrok@gmail.com"><img src="./assets/buttons/btn-email.svg" height="48"/></a>&nbsp;<a href="https://twitter.com/AHMEDAlp15"><img src="./assets/buttons/btn-twitter.svg" height="48"/></a>
+<a href="https://ahkhan.online"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://www.nafrok.com"><img src="https://img.shields.io/badge/Nafrok-1a1a1a?style=for-the-badge&logo=framer&logoColor=white" /></a>
+<a href="https://www.aixrobo.com"><img src="https://img.shields.io/badge/AIxRobo-1a1a1a?style=for-the-badge&logo=robotframework&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ahmedhussainkhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahkhan.nafrok@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://twitter.com/AHMEDAlp15"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
@@ -16,19 +23,27 @@
 
 ---
 
+<br/>
+
 Started at 16 with HTML and CSS — no roadmap, just curiosity. Three years later: two companies founded, 30+ production systems shipped, and autonomous machines navigating hostile environments without GPS.
 
-**NAFROK** — Web design agency. Full-stack production websites. Fixed pricing. Ruthless timelines. Measurable results.  
+**NAFROK** — Web design agency. Full-stack production websites. Fixed pricing. Ruthless timelines. Measurable results.
 
 **AIxRobo** — Research lab. Autonomous drones, humanoid robotics, and LLM-powered physical intelligence.
+
+<br/>
 
 ---
 
 <br/>
 
+<div align="center"><sub><b>TECH STACK</b></sub></div>
+
+<br/>
+
 <table width="100%">
 <tr>
-<td width="140" valign="top"><sub><b>LANGUAGES</b></sub></td>
+<td width="150" valign="top"><sub><b>LANGUAGES</b></sub></td>
 <td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -99,32 +114,36 @@ Started at 16 with HTML and CSS — no roadmap, just curiosity. Three years late
 
 <br/>
 
-<div align="center"><sub>SELECTED WORK</sub></div>
+<div align="center"><sub><b>SELECTED WORK</b></sub></div>
 
 <br/>
 
-**[NAFROK](https://nafrok.com)** &nbsp; `2024`  
-
+### [NAFROK](https://nafrok.com) `2024`
 Web design agency — 30+ production systems shipped. ₹15–45K fixed pricing. 1–3 week delivery. 125% avg. conversion lift.
 
-**[SlateBooks](https://slatebooks.in)** &nbsp; `2025`  
+<br/>
 
+### [SlateBooks](https://slatebooks.in) `2025`
 E-commerce platform built from zero — brand identity, admin dashboard, payment processing, inventory management. 30 → 1,200 monthly visitors.
 
-**[AIxRescue](https://aixrescue.io)** &nbsp; `2025`  
+<br/>
 
+### [AIxRescue](https://aixrescue.io) `2025`
 Real-time disaster intelligence — satellite imagery, live weather telemetry, and AI anomaly detection in a unified command dashboard.
 
-**[AIxDrone](https://aixdrone.io)** &nbsp; `2025`  
+<br/>
 
+### [AIxDrone](https://aixdrone.io) `2025`
 Autonomous flight system — LiDAR + GPS + IMU sensor fusion, onboard PyTorch inference, obstacle avoidance, swarm coordination.
 
-**[AIxRobo](https://aixrobo.com)** &nbsp; `2025`  
+<br/>
 
+### [AIxRobo](https://aixrobo.com) `2025`
 Independent research lab — humanoid robotics, LLM + physical intelligence, multi-modal perception, autonomous systems.
 
-**[Retail Joints](https://retailjoints.io)** &nbsp; `2023`  
+<br/>
 
+### [Retail Joints](https://retailjoints.io) `2023`
 Call center infrastructure — 20+ machines built and networked, full VoIP stack, security hardened, delivered under budget.
 
 <br/>
@@ -133,7 +152,7 @@ Call center infrastructure — 20+ machines built and networked, full VoIP stack
 
 <br/>
 
-<div align="center"><sub>GITHUB</sub></div>
+<div align="center"><sub><b>GITHUB</b></sub></div>
 
 <br/>
 
@@ -164,4 +183,3 @@ Call center infrastructure — 20+ machines built and networked, full VoIP stack
 <br/><br/>
 
 </div>
-
