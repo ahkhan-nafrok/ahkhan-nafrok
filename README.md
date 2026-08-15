@@ -135,7 +135,11 @@ Started at 16 with HTML and CSS — no roadmap, just curiosity. Two companies fo
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake/contribution-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake/contribution-snake.svg" />
+  <img alt="Contribution snake" src="./assets/snake/contribution-snake.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
