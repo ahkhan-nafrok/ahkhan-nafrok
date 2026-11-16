@@ -1,0 +1,51 @@
+name: Update profile
+
+# Rebuilds assets/snake/contribution-snake.svg and assets/activity.svg.
+# No third-party actions, no secrets: it reads your public contribution calendar and uses the
+# built-in GITHUB_TOKEN for repo/language data.
+#
+# One-time setup: Settings > Actions > General > Workflow permissions > "Read and write permissions".
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # daily, 02:00 UTC
+  workflow_dispatch: {}       # Actions tab > Update profile > Run workflow
+  push:
+    paths:
+      - "scripts/build_activity.py"
+      - "scripts/svgkit.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build snake + activity
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_activity.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake assets/activity.svg
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh snake + activity [skip ci]"
+            git push
+          fi
