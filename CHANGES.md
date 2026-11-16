@@ -1,0 +1,6 @@
+# Delete these from your repo (they are replaced or obsolete)
+- .github/workflows/snake.yml                 (replaced by profile.yml)
+- .github/workflows/update-profile-assets.yml (calls scripts/generate_assets.py, which does not exist)
+- assets/cards/            (whole folder; the project cards were removed)
+- assets/status.svg        (replaced by assets/projects.svg)
+- assets/dividers/selected-work.svg, tech-stack.svg, github-activity.svg  (headers are now baked into each section SVG)
